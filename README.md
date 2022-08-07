@@ -19,7 +19,7 @@
 |**Pay Attenation**|
 |:----------------|
 |**If you can continue to use it, please keep a low profile.**|
-|**Fork this project, replace Dimitri2020007 in readme.md with your own user name before deploying, it is very important, remember!!!!**|
+|**Fork this project, replace renlikun999@gmail.com in readme.md with your own user name before deploying, it is very important, remember!!!!**|
 |**If the prompt We couldn't deploy your app because the source code violates the Salesforce Acceptable Use and External-Facing Services Policy. appears, return to the warehouse, >Setting>Repository name to modify the warehouse name.**|
 |**The part with a strikethrough indicates that it is not applicable or has been obsoleted.**|
 |**The reason for choosing not to repost to any website is to get together for a longer time. I hope you can find beautiful and interesting places outside the wall.**|
